@@ -164,16 +164,15 @@ ehthumbs_vista.db
 
 # Project specific
 # Data files (too large for git)
-data/images/
-*.csv
-!sample_data.csv
+
+
+
 *.h5
 *.hdf5
 *.ckpt
 
 # Output directories
 experiments/
-outputs/
 results/
 logs/
 checkpoints/
@@ -198,9 +197,6 @@ demo_*/
 *.7z
 
 # Image files (if storing separately)
-*.jpg
-*.jpeg
-*.png
 *.bmp
 *.tiff
 *.tif
