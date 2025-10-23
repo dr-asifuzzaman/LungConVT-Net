@@ -76,7 +76,7 @@ python main.py --mode train --config config.yaml
 python main.py --mode evaluate --model_path experiments/lungconvt_baseline/models/lungconvt_final.h5 --config config.yaml
 ```
 
-### Generating Explanations
+### Testing sample data
 
 ```bash
 python main.py --mode explain --model_path experiments/lungconvt_baseline/models/lungconvt_final.h5 --image_path path/to/image.jpg
