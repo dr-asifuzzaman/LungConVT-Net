@@ -172,13 +172,11 @@ ehthumbs_vista.db
 *.ckpt
 
 # Output directories
-results/
-logs/
-checkpoints/
-models/
-figures/
-evaluation/
-explanations/
+
+
+
+
+
 demo_*/
 
 # Temporary files
